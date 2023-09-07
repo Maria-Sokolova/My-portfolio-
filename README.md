@@ -16,9 +16,7 @@ Postman; Jira; Atlassian Confluence; Charles; Visual Studio Code; Miro; Swagger;
 
 # Проекты
 
-- Проект:
-  
-1 Расписание Skyeng для учителей
+- 1 Расписание Skyeng для учителей
 
 Что нужно было сделать:
 
@@ -27,12 +25,13 @@ Postman; Jira; Atlassian Confluence; Charles; Visual Studio Code; Miro; Swagger;
 3. провести тестирование
 4. написать отчет о результатах тестирования
 
-Ссылка на проект: https://docs.google.com/document/d/1jHNNJqJdn9sP5sPObYtT187sGiqYm95jH5gMmKxYqHY/edit#heading=h.pgtjg79d9qe
+Ссылка на проект:
+
+https://docs.google.com/document/d/1jHNNJqJdn9sP5sPObYtT187sGiqYm95jH5gMmKxYqHY/edit#heading=h.pgtjg79d9qe
 
 
-- Проект:
-  
-2 Веб-приложение для учителей Skyeng и Мобильное приложение для учеников
+
+- 2 Веб-приложение для учителей Skyeng и Мобильное приложение для учеников
 
 Что нужно было сделать:
 
@@ -47,9 +46,9 @@ Postman; Jira; Atlassian Confluence; Charles; Visual Studio Code; Miro; Swagger;
 
 https://docs.google.com/document/d/1rXpocAbrbIyuu-0ETegPuo7lPBftiTuw5DWw2_O894Q/edit#heading=h.jx8gvitadvla
 
-- Проект:
 
-3 Мобильное приложение SkyEng Teacher
+
+- 3 Мобильное приложение SkyEng Teacher
 
 Что нужно было сделать:
 
@@ -59,7 +58,9 @@ https://docs.google.com/document/d/1rXpocAbrbIyuu-0ETegPuo7lPBftiTuw5DWw2_O894Q/
 4. написать отчет о результатах тестирования
 
 
-Ссылка на проект: https://docs.google.com/document/d/1fWFp2v_X4I5UR2kGQwEB3rLERIxBYr7FXVmvo0ipCL8/edit#heading=h.cvi6lgp2htry
+Ссылка на проект: 
+
+https://docs.google.com/document/d/1fWFp2v_X4I5UR2kGQwEB3rLERIxBYr7FXVmvo0ipCL8/edit#heading=h.cvi6lgp2htry
 
 
 
